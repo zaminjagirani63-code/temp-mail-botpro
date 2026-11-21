@@ -8,7 +8,7 @@ import requests
 
 # ---------- CONFIG ----------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
-MAILSLURP_API_KEY = os.environ.get("MAILSLURP_API_KEY", "sk_vsNq5tN0Dwci03II_FffmvLhXGoa6q5sjVIol6OwNSZJNpmvN0bCWTZHTBIXrOKLFm6rHBYHnWsaWYA5d")
+MAILSLURP_API_KEY = os.environ.get("MAILSLURP_API_KEY", "sk_waxlhSNGzbH7JEDb_Zm3HjrMUScUqrqka49xiXHFFK38v6eU0YFdHqMC0tMrIqqZeukbveKHvmPbxSUeO)
 BASE = "https://api.mailslurp.com"
 HEADERS = {"x-api-key": MAILSLURP_API_KEY}
 
